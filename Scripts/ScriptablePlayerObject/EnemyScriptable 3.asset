@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d8b4f4a7f112c4d2f8e39c51122476c2, type: 3}
+  m_Name: EnemyScriptable 3
+  m_EditorClassIdentifier: 
+  PlayerColor: {r: 1, g: 0.4452121, b: 0, a: 1}
+  SpawnNumberAtStart: 0
+  PlayerPrefab: {fileID: 3990365464491274997, guid: 8c17c6076bcd14f349edb495d7c47f2f, type: 3}
+  PlayerTypes: 0
