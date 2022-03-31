@@ -1,5 +1,5 @@
 # cleaner-prototype
-this is the unity prototype im worked with.
+this was the unity prototype im worked
 
 
 # {OpenSource}  
